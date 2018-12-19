@@ -1,0 +1,6 @@
+framework module DdkLibrary {
+  umbrella header "DdkLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

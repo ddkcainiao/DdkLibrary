@@ -1,0 +1,6 @@
+framework module Pods_DdkLibrary_Example {
+  umbrella header "Pods-DdkLibrary_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

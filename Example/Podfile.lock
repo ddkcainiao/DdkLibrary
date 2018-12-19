@@ -1,0 +1,16 @@
+PODS:
+  - DdkLibrary (1.0.0)
+
+DEPENDENCIES:
+  - DdkLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  DdkLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DdkLibrary: b7f1b3fd2b50fc5668785a4fd5f90c5f998514d2
+
+PODFILE CHECKSUM: 057a3fe87b91b3f0837316b287970fe4b87f89a1
+
+COCOAPODS: 1.5.3
