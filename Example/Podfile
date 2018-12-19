@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'DdkLibrary_Example' do
+  pod 'DdkLibrary', :path => '../'
+
+  target 'DdkLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
