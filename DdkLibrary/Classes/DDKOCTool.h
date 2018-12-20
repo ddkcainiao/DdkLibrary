@@ -19,5 +19,6 @@
 + (NSString *)dateIntervalStrMinDate:(NSDate *)minD MaxDate:(NSDate *)maxD;
 //比较日期大小
 +(int)compareOneDate:(NSDate *)oneD anotherDate:(NSDate *)anotherD;
+//测试
 
 @end
